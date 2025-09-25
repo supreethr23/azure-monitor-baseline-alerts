@@ -9,13 +9,13 @@
       "value": "alz-platform"
     },
     "IdentityManagementGroup": {
-      "value": "alz-identity"
+      "value": "alz-platform-identity"
     },
     "managementManagementGroup": {
-      "value": "alz-management"
+      "value": "alz-platform-management"
     },
     "connectivityManagementGroup": {
-      "value": "alz-connectivity"
+      "value": "alz-platform-connectivity"
     },
     "LandingZoneManagementGroup": {
       "value": "alz-landingzones"
